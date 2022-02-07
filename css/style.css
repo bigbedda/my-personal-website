@@ -14,8 +14,9 @@ p {
 }
 .navigation {
     font-size: 22px;
-    color: brown;
+    color: black;
     margin: 10px;
+    text-decoration: underline;
 }
 main {
     width: 750px;
