@@ -13,10 +13,12 @@ p {
     width: 750px;
 }
 .navigation {
-    font-size: 22px;
+    font-size: 30px;
     color: black;
     margin: 10px;
     text-decoration: underline;
+    font-weight: bold;
+    margin-bottom: -15px;
 }
 main {
     width: 750px;
@@ -30,4 +32,6 @@ img {
 }
 ul {
     font-size: 24px;
+    list-style-type: none;
+    margin-left:-40px;
 }
