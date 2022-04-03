@@ -118,3 +118,11 @@ p {
     margin: 20px 20px 50px;
 }
 
+/* contact form  */
+
+#title-contact {
+    background-color: #3A3845;
+    color: white;
+    margin-top: 0px;
+    padding-bottom: 0px;
+}
