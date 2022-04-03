@@ -131,3 +131,16 @@ p {
     margin-top: 0px;
     padding-bottom: 0px;
 }
+
+.py-4 {
+    background-color: #F7CCAC;
+}
+
+.contact {
+    background-color: #F7CCAC;
+    padding-bottom: 5%;
+}
+
+.form-label {
+    font-size: 20px;
+}
