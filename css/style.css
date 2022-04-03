@@ -58,6 +58,11 @@ p {
     font-family: 'Montserrat-light';
 }
 
+#learned {
+    text-align: center;
+    color:#3A3845;
+}
+
 /* images */
 
 .title-image {
